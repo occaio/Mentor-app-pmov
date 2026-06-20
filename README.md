@@ -15,6 +15,17 @@ O design de alta fidelidade que serviu como base para o desenvolvimento deste ap
 ## Screenshots do App (Código Implementado)
 Abaixo estão as capturas de tela reais do aplicativo rodando no ambiente móvel, demonstrando a fidelidade com o design proposto:
 
+<img width="1080" height="2340" alt="login" src="https://github.com/user-attachments/assets/68d41ea7-295a-434e-93fa-efba926fc2f2" />
+
+<img width="738" height="1600" alt="criarconta" src="https://github.com/user-attachments/assets/c911b9f2-b779-48c9-88db-8e33b1140d82" />
+
+<img width="1080" height="2340" alt="esqueceu" src="https://github.com/user-attachments/assets/975cb4e0-9035-4545-a47c-f1b0fac98b6e" />
+
+<img width="1080" height="2340" alt="codigo" src="https://github.com/user-attachments/assets/846e1f50-5875-4262-aeec-1587238ece64" />
+
+<img width="1080" height="2340" alt="novasenha" src="https://github.com/user-attachments/assets/beb1fd41-8d7d-4585-bb76-f19044a86d93" />
+
+<img width="738" height="1600" alt="home" src="https://github.com/user-attachments/assets/dd41cf96-e1e5-452b-abcd-94671e58f596" />
 
 ---
 

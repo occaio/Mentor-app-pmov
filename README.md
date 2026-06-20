@@ -1,50 +1,43 @@
-# Welcome to your Expo app 👋
+# Mentor App 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Integrantes do Grupo
+* Eduardo Caio da Silva
+* Yasmim Fernandes da Silva
 
-## Get started
+---
 
-1. Install dependencies
+## Protótipo no Figma
+O design de alta fidelidade que serviu como base para o desenvolvimento deste aplicativo mobile pode ser encontrado no link abaixo:
+🔗 **https://www.figma.com/design/uUrlxsT6P7duQnkS8xW8TP/Mentor-redesign-2?node-id=0-1&t=K3gRrE1sV4Oxqyww-1**
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## Screenshots do App (Código Implementado)
+Abaixo estão as capturas de tela reais do aplicativo rodando no ambiente móvel, demonstrando a fidelidade com o design proposto:
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Sobre o Projeto
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+O **Mentor App** é uma plataforma educacional híbrida voltada para o ambiente móvel, projetada para conectar de forma dinâmica professores, mentores e alunos em comunidades de aprendizado. 
 
-## Get a fresh project
+O foco deste trabalho prático foi traduzir o design desenvolvido no Figma para código real, implementando o **fluxo de autenticação (não autenticado)** e a transição fluida para a área logada.
 
-When you're ready, run:
+### Escopo das Telas Implementadas
+1. **Tela de Login (`Entrar`):** Entrada de usuários com validação de campos vazios e opção de visualizar/ocultar senha.
+2. **Tela de Cadastro (`Criar Conta`):** Seletor de perfil (Aluno/Professor), inputs customizados e aceite de termos de uso.
+3. **Tela de Recuperação de Senha:** Início do fluxo de redefinição através do e-mail do usuário.
+4. **Tela de Código:** 5 campos customizados com a identidade visual laranja para inserção do token de verificação.
+5. **Tela de Nova Senha:** Redefinição segura de credenciais.
+6. **Tela de Home (Pós-login):** Tela inicial 
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Tecnologias Utilizadas
+* **React Native** (com TypeScript)
+* **Expo** (Ambiente gerenciado com Expo Go)
+* **Expo Router** (Navegação baseada em arquivos por herança de pastas/estruturas)
+* **Expo Vector Icons** (Ícones nativos do ecossistema)
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
